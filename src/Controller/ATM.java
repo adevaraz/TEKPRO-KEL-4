@@ -3,8 +3,7 @@ package Controller;
 import View.Screen;
 import View.Keypad;
 //kelompok 4
-//Doraemon
-//nobita
+
 
 public class ATM {
    private boolean userAuthenticated; // whether user is authenticated
