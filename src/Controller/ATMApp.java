@@ -8,5 +8,12 @@ public class ATMApp {
       //cecep gorbacep
       //gw ganteng
       //wow
+      //dgfdgfdg
+      ///dfgfdgdfgdfg
+      //dfg//fgn/hg
+      //hg/j/hg/
+     // /gf/jhg/j
+       ///dgdfgfdgfdg
+       System.out.println("sdfdsfsdfsdf");
    }
 } 
