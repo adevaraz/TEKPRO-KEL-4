@@ -2,8 +2,7 @@ package Controller;
 
 import View.Screen;
 import View.Keypad;
-//kelompok 4
-//Doraemon
+
 
 public class ATM {
    private boolean userAuthenticated; // whether user is authenticated
