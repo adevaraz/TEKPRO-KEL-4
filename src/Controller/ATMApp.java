@@ -9,5 +9,28 @@ public class ATMApp {
       //gw ganteng
       //wow
       //hi
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      
+      
    }
 } 
