@@ -5,12 +5,30 @@ public class ATMApp {
    public static void main(String[] args) {
       ATM theATM = new ATM();    
       theATM.run();
-      //asdsadasd
-      ///asdsadsadsad
-      ///dsfdsfdsfdsfdsfdsf
-      ///fdgfdgfdgdhhyrhyth
-      //sdfsdfsdfsdfdsf
-     // /dsfdsf/sdfsdfsdfsdf
-   //dfgdfgfdgfdgfdgdfgdffg
+      //cecep gorbacep
+      //gw ganteng
+      //wow
+      //hi
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
+      System.out.println("asassdfdsfdsf");
    }
 } 
